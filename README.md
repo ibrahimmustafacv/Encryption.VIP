@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Logo.png" alt="شعار تطبيق التشفير المتقدم" width="200" />
+  <img src="Logo.png" alt="لقطة رئيسية لتطبيق التشفير المتقدم" width="100%" style="max-width: 900px; height: auto; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);" />
 </p>
 
 # 🔐 تشفير متقدم (Advanced Encryption)
